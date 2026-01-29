@@ -1,4 +1,4 @@
-package org.example.traffic_counts.models;
+package org.example.models;
 
 import java.util.HashMap;
 import java.util.Map;
